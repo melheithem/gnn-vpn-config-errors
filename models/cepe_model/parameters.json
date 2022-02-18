@@ -1,0 +1,7 @@
+{
+    "n_node_features": 21,
+    "n_labels": 30,
+    "gc_layer": "GCN",
+    "cepe_channels": 64,
+    "learning_rate": 0.001
+}
